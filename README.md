@@ -259,7 +259,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/EsEz1/EsEz1/blob/main/Snake.yml" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
 <!--# Hey <img src="https://github.com/EslamEzzat433/EslamEzzat433/blob/main/wave.gif" width="40px" height="40px">, I'm <a href="https://www.linkedin.com/in/eslam-ezzat-371bb3191/">ESLAM!</a>
