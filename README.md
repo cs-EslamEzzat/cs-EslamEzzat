@@ -20,9 +20,9 @@
 
 <br><br>
 
-- :school: I am a `Graduated` From [Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
-- :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup>place out of 420 student at college level.
-  :school: I got `1`<sup>st</sup>place out of 35 students at the level of Department of Computer Science.
+- :school: I am a `CS Fresh Graduate` From [Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
+- :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
+- :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :thinking: I’m currently open for an `Intern` or new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyIrBG-7AoN-UVkV0kx_1_TcoUYG_UNX/view).
@@ -36,8 +36,8 @@
   <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/Soly_Ezzat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/EsEz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>    
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+	<a href="https://www.codechef.com/users/eslam_ezzat"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>    
+	<a href="https://www.codingame.com/profile/b2209b715c0848d907a1ee957ec1972e4824525" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
