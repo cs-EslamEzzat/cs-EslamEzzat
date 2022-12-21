@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Eslam Ezzat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Intern+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
 
 
@@ -25,7 +25,7 @@
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- :thinking: I’m currently open for an `Intern` or new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyIrBG-7AoN-UVkV0kx_1_TcoUYG_UNX/view).
+- :thinking: I’m currently open for an `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1HyIrBG-7AoN-UVkV0kx_1_TcoUYG_UNX/view).
 - :nerd_face: Always `learning new things`.
 <br>
 
