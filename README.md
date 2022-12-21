@@ -145,7 +145,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/RedHat-#FF0000.svg?&style=plastic&logo=RedHat&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/RedHat-%25500.svg?&style=plastic&logo=RedHat&logoColor=white" /></a>
 </p>
 
 <br> 
