@@ -62,7 +62,7 @@
   </a> 
   &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
-  <img alt="C#" src="https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/csharp%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
