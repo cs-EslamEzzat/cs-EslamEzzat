@@ -62,7 +62,7 @@
   </a> 
   &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
-  <img alt="C#" src="https://img.shields.io/badge/C#%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -208,46 +208,46 @@
 	
 <div>
   <p align="center">
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
+    	<a href="https://github.com/EsEz1/Strees_Testing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
+    	<a href="https://github.com/EsEz1/CP-Templates">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
+    	<a href="https://github.com/EsEz1/Codeforces-Polygon-Template">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
+	<a href="https://github.com/EsEz1/Some-Linux-Commands">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
+	<a href="https://github.com/EsEz1/Shorten-Link">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
+	<a href="https://github.com/EsEz1/EsEz1">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
+	<a href="https://github.com/EsEz1/Competitive-Programming-Session-Content">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
+	<a href="https://github.com/EsEz1/VS-Code-for-CP">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
+	<a href="https://github.com/EsEz1/Sorting-Algorithms">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
+	<a href="https://github.com/EsEz1/board-link-generator">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
+	<a href="https://github.com/EsEz1/Tic-Tac-Toe-GUI">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
+	<a href="https://github.com/EsEz1/PhoneBook-System">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
+	<a href="https://github.com/EsEz1/Codeforces-Sheet-Generator">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
+	<a href="https://github.com/EsEz1/CP-Calendar">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
@@ -259,7 +259,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/EsEz1/EsEz1/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
 <!--# Hey <img src="https://github.com/EslamEzzat433/EslamEzzat433/blob/main/wave.gif" width="40px" height="40px">, I'm <a href="https://www.linkedin.com/in/eslam-ezzat-371bb3191/">ESLAM!</a>
