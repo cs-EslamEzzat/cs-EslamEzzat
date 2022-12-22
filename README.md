@@ -34,7 +34,6 @@
 	<a href="https://leetcode.com/Soly_Ezzat/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/EsEz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/eslam_ezzat"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>    
-	<a href="https://www.codingame.com/profile/b2209b715c0848d907a1ee957ec1972e4824525" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
