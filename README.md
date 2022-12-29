@@ -118,7 +118,7 @@
  
 <p align="center">
   &emsp;
-     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%23FFA116.svg?style=plastic&logo=codeforces&logoColor=black" /></a>
+     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-#ffffff.svg?style=plastic&logo=codeforces&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
