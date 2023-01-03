@@ -22,7 +22,7 @@
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- :thinking: I’m currently open for an `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1j8sAlkBiF0yTqRJn40uq1S4yCDJu_lXP/view?usp=sharing).
+- :thinking: I’m currently open for an `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1hSBJVuQ1pYBx2QBxhr0Rs3ORHBuEqJ6y/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
 
