@@ -33,7 +33,8 @@
   <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/EsEz/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	<a href="https://atcoder.jp/users/EsEz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/eslam_ezzat"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>    
+	<a href="https://www.codechef.com/users/eslam_ezzat"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+	
 </p>
 
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
