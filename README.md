@@ -118,13 +118,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="#"><img alt = "CodeForces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=CodeForces&logoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="#"><img alt = "LeetCode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=LeetCode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="#"><img alt = "HackerRank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=HackerRank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Atcoder" src="https://img.shields.io/badge/atcoder-rgb(0,0,0).svg?style=plastic&logo=AtCoder&logoColor=black" /></a>
+    <a href="#"><img alt = "AtCoder" src="https://img.shields.io/badge/atcoder-rgb(0,0,0).svg?style=plastic&logo=AtCoder&logoColor=black" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
