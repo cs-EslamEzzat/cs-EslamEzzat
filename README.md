@@ -21,13 +21,13 @@
 - :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Atcoder`.
 - :thinking: I’m currently open for an `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12tD3tOrFyFUqcOns-_8pjqErs65wywik/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
 
 
-## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/competitive_programming_profile.png" width="40px"> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="Code Forces"/></a>
