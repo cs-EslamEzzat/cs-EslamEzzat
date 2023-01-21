@@ -21,7 +21,7 @@
 - :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :thinking: I’m currently open for an `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/12tD3tOrFyFUqcOns-_8pjqErs65wywik/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
@@ -38,18 +38,24 @@
 
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
 <p align="center">
+$nbsp;
 	<a href="mailto:ezzateslam131@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	$nbsp;
 	<a href="https://github.com/EsEz1"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	$nbsp;
 	<a href="https://wa.me/0201032177433"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	$nbsp;
 	<a href="https://www.linkedin.com/in/eslam-ezzat-371bb3191/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	$nbsp;
 	<a href="https://www.facebook.com/eslam.ezzat.3367174"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	$nbsp;
 </p>
 
 
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Programming_Languages.gif" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Programming_Languages.gif" width = "50px">  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
