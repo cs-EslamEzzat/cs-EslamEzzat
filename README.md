@@ -64,7 +64,7 @@
   </a> 
   &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
-  <img alt="C#" src="https://img.shields.io/badge/csharp%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/csharp%20-%232370ED.svg?style=plastic&logo=csharp&logoColor=white">
   </a> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -143,7 +143,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/RedHat-rgb(255,0,0).svg?&style=plastic&logo=RedHat&logoColor=black" /></a>
 </p>
