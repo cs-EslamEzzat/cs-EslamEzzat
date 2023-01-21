@@ -111,26 +111,26 @@
  
 <p align="center">
   &emsp;
-  <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&    logoColor=white"></a>
   &emsp;
 <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20-0078d7.svg?style=plastic&logo=visual-studio&    logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "CodeForces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=CodeForces&logoColor=white" /></a>	
+    <a href="#"><img alt = "CodeForces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=CodeForces&logoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "LeetCode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=LeetCode&logoColor=black" /></a>
+    <a href="#"><img alt = "LeetCode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=LeetCode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "HackerRank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=HackerRank&logoColor=white" /></a>
+    <a href="#"><img alt = "HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=HackerRank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "AtCoder" src="https://img.shields.io/badge/atcoder-rgb(0,0,0).svg?style=plastic&logo=atcoder&logoColor=black" /></a>
+    <a href="#"><img alt = "AtCoder" src="https://img.shields.io/badge/AtCoder-rgb(0,0,0).svg?style=plastic&logo=atcoder&logoColor=black" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
