@@ -118,7 +118,7 @@
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/CP_PS.gif" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
-  &emsp;
+  &nbsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
