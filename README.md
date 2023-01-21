@@ -30,8 +30,8 @@
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/EsEz/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="50" height="50" alt="Code Forces"/></a>
+	<a href="https://leetcode.com/EsEz/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50" height="50" alt="LeetCode"/></a>
 	 <a href="https://www.hackerrank.com/ezzateslam131"><img src="https://github.com/EsEz1/EsEz1/blob/main/HackerRank.png" width="50" height="50" alt="HackerRank"/></a>
 	<a href="https://atcoder.jp/users/EsEz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="50" height="50"/></a>
 </p>
