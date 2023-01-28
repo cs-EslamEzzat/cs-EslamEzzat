@@ -80,12 +80,12 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "20px">  </picture> Database
+### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "50px">  </picture> Database
 
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
-    <img alt="SQL" src="https://github.com/EsEz1/EsEz1/issues/1" width="20px"></a> 
+    <img alt="SQL" src="https://user-images.githubusercontent.com/75278136/215292425-062be061-1255-4f95-a25f-86ae2e175f91.svg" width="20px"></a> 
 </p> 
 
 
