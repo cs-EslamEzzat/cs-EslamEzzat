@@ -80,13 +80,13 @@
   </a>
 </p>
 
-<!-- ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "50px">  </picture> Database
+### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "50px">  </picture> Database
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300599C.svg?style=plastic&logo=SQL%2B%2B&logoColor=white">
-  </a> 
+  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
+    <img alt="SQL" src="[https://img.shields.io/badge/SQL%20-%2300599C.svg?style=plastic&logo=SQL%2B%2B&logoColor=white](https://github.com/EsEz1/EsEz1/issues/1)" width="20px">
+<!--   </a> 
   &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> 
   <img alt="C#" src="https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=plastic&logo=csharp&logoColor=white">
@@ -103,10 +103,9 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-</p>
+</p> -->
 
 
- -->
 
 ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Front_End.gif" width = "50px">  </picture> Frontend Development
 <p align="center"> 
