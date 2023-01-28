@@ -80,7 +80,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Front_End.gif" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Front_End.gif" width = "50px">  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
