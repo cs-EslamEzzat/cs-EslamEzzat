@@ -80,7 +80,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "50px">  </picture> Database
+### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/Database.gif" width = "20px">  </picture> Database
 
 <p align="center"> 
   &emsp; 
