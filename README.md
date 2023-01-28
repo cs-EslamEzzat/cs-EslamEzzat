@@ -88,11 +88,11 @@
     <img alt="SQL" src="https://user-images.githubusercontent.com/75278136/215292425-062be061-1255-4f95-a25f-86ae2e175f91.svg" width="20px"></a> 
   &emsp;
   <a href="https://www.mysql.com" target="_blank"> 
-  <img alt="MySQL" src="https://user-images.githubusercontent.com/75278136/215292860-d007acea-70b9-45de-952f-1c4e2f81777a.svg" width="20px">
+  <img alt="MySQL" src="https://user-images.githubusercontent.com/75278136/215292860-d007acea-70b9-45de-952f-1c4e2f81777a.svg" width="50px">
   </a> 
   &emsp;
   <a href="https://www.postgresql.org/" target="_blank"> 
-  <img alt="PostgreSQL" src="https://user-images.githubusercontent.com/75278136/215292925-ddbdc3eb-8b3e-4633-86a7-18ae827e9b3f.png" width="20px">
+  <img alt="PostgreSQL" src="https://user-images.githubusercontent.com/75278136/215292925-ddbdc3eb-8b3e-4633-86a7-18ae827e9b3f.png" width="50px">
   </a> 
 </p> 
 
