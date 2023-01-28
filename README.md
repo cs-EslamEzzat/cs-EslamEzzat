@@ -88,7 +88,7 @@
     <img alt="SQL" src="https://user-images.githubusercontent.com/75278136/215292425-062be061-1255-4f95-a25f-86ae2e175f91.svg" width="20px"></a> 
   &emsp;
   <a href="https://www.mysql.com" target="_blank"> 
-  <img alt="MySQL" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg">
+  <img alt="MySQL" src="https://user-images.githubusercontent.com/75278136/215292860-d007acea-70b9-45de-952f-1c4e2f81777a.svg">
   </a> 
 </p> 
 
