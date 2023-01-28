@@ -92,7 +92,7 @@
   </a> 
   &emsp;
   <a href="https://www.postgresql.org/" target="_blank"> 
-  <img alt="PostgreSQL" src="https://user-images.githubusercontent.com/75278136/215292925-ddbdc3eb-8b3e-4633-86a7-18ae827e9b3f.png" width="40px">
+  <img alt="PostgreSQL" src="https://user-images.githubusercontent.com/75278136/215292925-ddbdc3eb-8b3e-4633-86a7-18ae827e9b3f.png" width="30px">
   </a> 
 </p> 
 
