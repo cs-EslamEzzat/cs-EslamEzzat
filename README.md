@@ -21,7 +21,7 @@
 - :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Atcoder`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `HackerRank`.
 - :thinking: I’m currently open for an `Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1lEfaBvsnFk58p_R2Jrym9BGpMSrJwFjL/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
@@ -33,7 +33,6 @@
   <a href="https://codeforces.com/profile/Soly_Ezzat"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/EsEz/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="50px" height="50px" alt="LeetCode"/></a>
 	 <a href="https://www.hackerrank.com/EsEz1?hr_r=1"><img src="https://github.com/EsEz1/EsEz1/blob/main/HackerRank.png" width="50px" height="50px" alt="HackerRank"/></a>
-	<a href="https://atcoder.jp/users/EsEz"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width="50px" height="50px"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
@@ -147,8 +146,6 @@
     <a href="#"><img alt = "LeetCode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=LeetCode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=HackerRank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "AtCoder" src="https://img.shields.io/badge/AtCoder-rgb(0,0,0).svg?style=plastic&logo=atcoder&logoColor=black" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
