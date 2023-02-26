@@ -148,7 +148,7 @@
   &emsp;
     <a href="#"><img alt = "HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=HackerRank&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
