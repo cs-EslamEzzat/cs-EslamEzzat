@@ -142,11 +142,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "CodeForces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=CodeForces&logoColor=white" /></a>	
+    <a href="#"><img alt = "CodeForces" src="https://img.shields.io/badge/Codeforces%20-%231F8ACB.svg?style=plastic&logo=CodeForces&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "LeetCode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=LeetCode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=HackerRank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/EsEz1/EsEz1/blob/main/OS.gif" width = 50px>  </picture> Operating Systems
