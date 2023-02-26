@@ -176,7 +176,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/EsEz1/EsEz1/issues/5" alt = "Snake Game"/>
+	<img src = "https://user-images.githubusercontent.com/75278136/221431044-221d064b-d7d4-467c-9756-96aa4183cb7b.svg" alt = "Snake Game"/>
 </p>
 <!--
 https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
