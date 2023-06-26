@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `CS Graduate` From [Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
+- :school: I am a `Teaching Assistant` @[Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
 - :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
