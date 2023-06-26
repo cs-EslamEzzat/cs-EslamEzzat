@@ -21,7 +21,7 @@
 - :school: I awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: I got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
+- :computer: I am a competitive programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1nTKjdb1q4Mc-nUjRUyuS82LZ7VcMTfKB/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
