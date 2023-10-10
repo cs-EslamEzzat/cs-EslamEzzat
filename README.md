@@ -6,11 +6,6 @@
 
 <br>
 
-'''
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=EsEz1&label=Profile%20views&color=0e75b6&style=plastic" alt="EsEz1" height=25px, width=150px/>
-</p>
-'''
 	
 ## <picture><img src = "https://github.com/EsEz1/EsEz1/blob/main/about_me.gif" width = 50px></picture> About me
 
