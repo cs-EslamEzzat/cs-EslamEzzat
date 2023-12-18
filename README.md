@@ -16,8 +16,8 @@
 - :school: I am a `Teaching Assistant` @[Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
 - :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: Got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
-- :technologist: love using Software as a solution for every `Problem`.
-- :computer: A competitive programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
+- :technologist: I love using software as a solution for every `Problem`.
+- :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/175K--d8RtBPfrvyHGSEJPf5JPVVWf_zQ/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
