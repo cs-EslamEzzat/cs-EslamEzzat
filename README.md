@@ -18,7 +18,7 @@
 - :school: Got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :technologist: I love using software as a solution for every `Problem`.
 - :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/175K--d8RtBPfrvyHGSEJPf5JPVVWf_zQ/view?usp=sharing).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/17Z2dI-kpZhaiNYbZAJWo6TtXW8ljCJsU/view?usp=sharing).
 - :nerd_face: Always `learning new things`.
 <br>
 
