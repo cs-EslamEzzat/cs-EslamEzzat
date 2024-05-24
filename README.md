@@ -17,7 +17,7 @@
 - :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: Got `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
 - :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/175so20SX4FFqaEMMNr4aiGSEJVUqntMB/view?usp=sharing).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1dsNc6DBWxtZ860mJyPPssiPDbVSbSeWg/view?usp=sharing).
 <br>
 
 
