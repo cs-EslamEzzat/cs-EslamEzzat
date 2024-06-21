@@ -17,7 +17,7 @@
 - :computer: `Software Programming Instrucor` @[almentor](https://www.almentor.net/)
 - :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of 420 student at college level.
 - :school: Achieved `1`<sup>st</sup> place out of 35 students at the level of Department of Computer Science.
-- :computer: Competed in Egyptian Collegiate Programming Contest (ECPC) 2020, Africa Collegiate Programming Contest (ACPC) kickoff online contest 2020.
+- :computer: Competed in Egyptian Collegiate Programming Contest `(ECPC) 2020`, Africa Collegiate Programming Contest `(ACPC) kickoff online contest 2020`.
 - :computer: Practiced rapid typing, generating 115 words per minute, and achieving top 4 percent on the fast finger site.
 - :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1dsNc6DBWxtZ860mJyPPssiPDbVSbSeWg/view?usp=sharing).
