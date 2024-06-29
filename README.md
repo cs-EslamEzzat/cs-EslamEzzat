@@ -20,7 +20,7 @@
 - :computer: Competed in Egyptian Collegiate Programming Contest `(ECPC) 2020`, Africa Collegiate Programming Contest `(ACPC) kickoff online contest 2020`.
 - :computer: Practiced rapid typing, generating `115 words per minute`, and `achieving top 4 percent` @[Fast Finger](https://10fastfingers.com/).
 - :computer: A Competitive Programmer @ `Codeforces`, `Leetcode`, `HackerRank`, `CodeChef`.
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1dsNc6DBWxtZ860mJyPPssiPDbVSbSeWg/view?usp=sharing).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1fT2ESRnhy1DRGnAV03E5cLBzobQLkmBR/view?usp=sharing).
 <br>
 
 
