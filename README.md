@@ -36,7 +36,7 @@
 ## <picture> <img src="https://github.com/EsEz1/EsEz1/blob/main/Connect-with-me.gif" width="100px"> </picture> Connect with me
 <p align="center">
 &nbsp;
-	<a href="mailto:ezzateslam131@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="50px" height="50px alt="Gmail"/></a>
+	<a href="mailto:ezzateslam131@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://github.com/EsEz1"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	&emsp;
