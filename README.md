@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://github.com/cs-EslamEzzat/cs-EslamEzzat/blob/main/about_me.gif" width ="50px"></picture> About me
 
-## <picture> <img align="right" src="https://github.com/EsEz1/EsEz1/blob/main/Right_Side.gif" width = 250px></picture>
+## <picture> <img align="right" src="https://github.com/cs-EslamEzzat/cs-EslamEzzat/blob/main/Right_Side.gif" width = 250px></picture>
 
 <br><br>
 
