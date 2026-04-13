@@ -13,7 +13,7 @@
 <br><br>
 
 - :school: `Teaching Assistant` @[Faculty of Science, Minia University](https://www.minia.edu.eg/sci/).
-- :computer: `Software Programming Instrucor` @[almentor](https://www.almentor.net/)
+- :computer: `Software Programming Instrucor` @[EYOUTH](https://eyouthlearning.com/en)
 - :school: Awarded prize from vice president of the university to get the `5`<sup>th</sup> place out of `420 student` at college level.
 - :school: Achieved `1`<sup>st</sup> place out of `35 student` at the level of Department of Computer Science.
 - :computer: Competed in Egyptian Collegiate Programming Contest `(ECPC) 2020`, Africa Collegiate Programming Contest `(ACPC) kickoff online contest 2020`.
